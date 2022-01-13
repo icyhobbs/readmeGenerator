@@ -18,7 +18,8 @@
 
   ## Usage
   Use inquirer from your command line to answer questions about your project. 
-  <img width="1024" alt="Screen Shot 2022-01-12 at 9 47 11 PM" src="https://user-images.githubusercontent.com/90910609/149257221-30fbfc8c-6e16-4713-b1e2-9dab5bd9700c.png">
+  
+![ReadMeVid](https://user-images.githubusercontent.com/90910609/149260448-88ed9946-e462-4373-8bb5-dd7134da8baa.gif)
 
 
   ## License
