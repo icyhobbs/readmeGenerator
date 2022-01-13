@@ -23,7 +23,7 @@
   This project is license under Open
 
   ## Contributing
-  To contribute to this repository, first discuss the change you wish to make via issue, or email.   
+  To contribute to this repository, first discuss the change(s) you wish to make via issue, or email.   
   
   ## Tests
   NPM TEST
