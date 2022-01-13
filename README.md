@@ -23,8 +23,8 @@
   This project is license under Open
 
   ## Contributing
-  If you have questions reach me via email at trackvinny@gmail.com. Additional projects at https://github.com/icyhobbs
-
+  To contribute to this repository, first discuss the change you wish to make via issue, or email.   
+  
   ## Tests
   NPM TEST
 
