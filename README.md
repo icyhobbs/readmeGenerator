@@ -1,9 +1,9 @@
-# Work
-  ![Github license](http://img.shields.io/badge/license-GNU-blue.svg)
+# Node.JS README Generator
+  ![Github license](http://img.shields.io/badge/license-Open-blue.svg)
 
 
   ## Description
-  Bigly
+  It's important to have a high-quality README for any project you develop and post on GitHub. It should at least include what the project is for, how to use and install it, how to report issues, and how to contribute.  This generator will enable you to dynamically generate a README based on your answers to a set of standard questions.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,19 +14,19 @@
   * [Questions](#questions)
 
   ## Installation
-  computer
+  The user should clone the repository from GitHub and download Node.Run npm install in order to install the following npm package dependencies such as inquirer in the package.json.
 
   ## Usage
-  carefully
+  Use inquirer from your command line to answer questions about your project. 
 
   ## License
-  This project is license under GNU
+  This project is license under Open
 
   ## Contributing
-  input
+  If you have questions reach me via email at trackvinny@gmail.com. Additional projects at https://github.com/icyhobbs
 
   ## Tests
-  brain
+  NPM TEST
 
   ## Questions
-  If you have any questions about this projects, please contact me directly at dklsj@gmail.com. You can view more of my projects at https://github.com/icyhobbs.
+  If you have any questions about this projects, please contact me directly at trackvinny@gmail.com. You can view more of my projects at https://github.com/icyhobbs.
